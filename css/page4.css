@@ -1,0 +1,27 @@
+body {
+    background-image: url("../img/5.jpg");
+}
+
+#memory {
+    width: 100%;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #FF5D5D;
+    text-shadow: 3px 3px black;
+}
+
+img {
+    width: 100%;
+    box-shadow: 5px 10px 10px #000000;
+}
+
+.row {
+    margin: 3%;
+}
+
+.col {
+    margin: 3% 0;
+}

@@ -1,0 +1,43 @@
+body {
+    background-color: #743a42;
+}
+
+.love-me {
+    background-color: #FF8C8C;
+    position: relative;
+    width: 80%;
+    margin: 20% auto;
+    padding: 10%;
+    text-align: center;
+    box-shadow: 10px 10px 8px #743a42;
+}
+
+.love-me h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 0 10% 10%;
+}
+
+.love-me .love{
+    margin: 0 3%;
+}
+
+.yes-no {
+    margin-right: 30%;
+}
+
+.no{
+    position:absolute;
+}
+
+.yes:hover {
+    background-color: rgb(85, 255, 85);
+}
+
+.no button:hover {
+    background-color: red;
+}
+
+.btn {
+    background-color: #FF8C8C;
+}

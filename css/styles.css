@@ -1,0 +1,55 @@
+body {
+    background-image: url("../img/3.webp");
+    font-family: 'Amiri', serif;
+    padding: 0;
+    margin: 0;
+}
+
+.home {
+    text-align: center;
+    margin: 5%;
+}
+
+.home h1 {
+    font-size: 3rem;
+    color: #FF5D5D;
+    text-shadow: 3px 3px black;
+}
+
+.home .heading {
+    color: #FF5D5D;
+    text-shadow: 3px 3px black;
+}
+
+.home img {
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+}
+
+.button {
+    color: black;
+    font-weight: bold;
+    background-color: #FF8C8C;
+    border: solid black 1px;
+    position: relative;
+    margin: 0 2%;
+}
+
+.back-btn {
+    color: black;
+    font-weight: bold;
+    background-color: #FF8C8C;
+    border: solid black 1px;
+    padding: 0 2%;
+}
+
+.forward-btn {
+    color: black;
+    font-weight: bold;
+    background-color: #FF8C8C;
+    border: solid black 1px;
+    padding: 0 2%;
+}
